@@ -112,3 +112,18 @@ AI-Resume-Analyzer/
 ├── .gitignore
 │
 └── venv/
+
+
+
+
+## 📸 Application Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-10-10%20095314.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-10-10%20095401.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-10-10%20095451.png)
+
+![Screenshot 4](screenshots/Screenshot%202026-10-10%20095520.png)
+
+![Screenshot 5](screenshots/Screenshot%202026-10-10%20095541.png)
