@@ -111,7 +111,14 @@ AI-Resume-Analyzer/
 ├── README.md
 ├── .gitignore
 │
-└── venv/
+└── screenshots/
+    ├── Screenshot 2026-10-10 095314.png
+    ├── Screenshot 2026-10-10 095401.png
+    ├── Screenshot 2026-10-10 095451.png
+    ├── Screenshot 2026-10-10 095520.png
+    └── Screenshot 2026-10-10 095541.png
+```
+
 
 
 
